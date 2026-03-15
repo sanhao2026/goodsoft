@@ -1,0 +1,18 @@
+{
+  "gateway": {
+    "mode": "local",
+    "port": 18789
+  },
+  "github": {
+    "owner": "sanhao2026",
+    "repo": "goodsoft",
+    "token": "ghp_你的PAT令牌"
+  },
+  "models": {
+    "default": "ollama",
+    "ollama": {
+      "baseUrl": "http://localhost:11434",
+      "model": "qwen:7b"
+    }
+  }
+}
