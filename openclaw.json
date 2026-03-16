@@ -6,7 +6,7 @@
   "github": {
     "owner": "sanhao2026",
     "repo": "goodsoft",
-    "token": "ghp_你的PAT令牌"
+    "token": "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"
   },
   "models": {
     "default": "ollama",
